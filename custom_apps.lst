@@ -193,5 +193,10 @@ bottles
 qbittorrent-enhanced-git
 vlc-wayland-git
 implay
-spotify-adblock
+spotify-adblock-git
 spotify-wayland
+vscode-css-languageserver
+vscode-html-languageserver
+vscode-json-languageserver
+vscode-markdown-languageserver
+typescript-language-server
